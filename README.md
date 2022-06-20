@@ -33,6 +33,6 @@ Replace 'pattern-map-image' with the respective image name from the 'Outputs' di
 
 An example visualization created for the following song - https://www.youtube.com/watch?v=QbeHq1CLqJ8 is shown below: 
 
-![alt text](Example_Visualization.png "Visualization for Apres Moi")
+![alt text](Example_Visualization.png?style-centerme "Visualization for Apres Moi")
 
 
