@@ -1,6 +1,10 @@
 # API-final-project
 Final Project for Audio Processing and Indexing
 
+## Installing Requirements
+- librosa
+- add reqs here
+
 ## Key and Tempo Detection
 
 ## Music Transcription
