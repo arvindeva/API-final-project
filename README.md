@@ -27,7 +27,7 @@ Before running the code in the notebook, the neural-style docker image needs to 
 
 The notebook "Synesthetizer.ipynb" contains the code for the visualization. Cells should be run one by one. In the final section, a shell command is run to spin up a container using podman. This can be run directly from the notebook. Alternatively, if Docker is being used, the command below can be run - 
 
-podman run -v /home/srishankar/Documents/synethetizer/Outputs:/out -it ffedoroff/neural-style th neural_style.lua -gpu -1 -style_image Grid_artistic.png -content_image <pattern-map-image>.png
+`podman run -v /home/srishankar/Documents/synethetizer/Outputs:/out -it ffedoroff/neural-style th neural_style.lua -gpu -1 -style_image Grid_artistic.png -content_image <pattern-map-image>.png`
 
 Replace 'pattern-map-image' with the respective image name from the 'Outputs' directory
 
