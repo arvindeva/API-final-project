@@ -1,5 +1,5 @@
 # API-final-project
-Final Project for Audio Processing and Indexing
+Welcome to the github page of final Project for Audio Processing and Indexing. Music and images are adjacent forms of art, each carrying and presenting information through a different medium. The transformation of one such medium into another and obtaining a new representation of the same information is thus an interesting prospect. One such example is that of synaesthesia, a rare condition where some individuals are able to visualize sound in certain forms of the condition. This phenomenon is used as inspiration for the project, where we implement a music analyzer that is able to detect the key and tempo and is able to transcribe individual notes in a given song, and this information is used to create a visualization that is based on the phenomenon of synaesthesia.
 
 ## Website
 The project also has a website: https://api-final-project.vercel.app/
